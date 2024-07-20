@@ -1,0 +1,28 @@
+This is personal AI Assistant generate by me:
+
+In this it have the gemini API Key integrated of text based model. It can Open Any APP By it's name. It has Time telling by the API and Value Given By the User.
+
+Feature:
+
+1. Speech To Text Model By Google.
+2. Text To Speech Model.
+3. Time Telling By API.
+4. Open Any APP By it's name.
+5. Fill Save and Speech Model.
+6. Web-Site Search and Open If in the List.
+
+Application:
+1. Can use in daily life AI Assistant.
+2. It can Save Info Generate by the AI in gemini text based model.
+3. Open Application By it Name in Window Application.
+
+Pip Lib use in the program.
+
+*pip install PyAudio*
+*pip install SpeechRecognition*
+*pip install google-generativeai*
+*pip install setuptools*
+*pip install win32*
+
+
+It has a Simple use and Application
