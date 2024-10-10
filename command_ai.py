@@ -1,7 +1,7 @@
 import speech_recognition as sr
 
 def command():
-    print("Listning......")
+    print("Listining......")
     r = sr.Recognizer()
     with sr.Microphone() as source:
         # r.pause_threshold = 0.6
